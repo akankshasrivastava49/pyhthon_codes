@@ -29,7 +29,7 @@ help(random)
 # In[1]:
 
 
-print(dir())b
+print(dir())
 
 
 # In[1]:
